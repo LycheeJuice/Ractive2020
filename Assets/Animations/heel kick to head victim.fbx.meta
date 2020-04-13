@@ -1,0 +1,1158 @@
+fileFormatVersion: 2
+guid: 4859adf86f1165d4faff50c17cf4986b
+timeCreated: 1436549236
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Victim_Chest
+    100004: Victim_Head
+    100006: Victim_Head_End
+    100008: Victim_L_Ankle
+    100010: Victim_L_Clav
+    100012: Victim_L_Elbow
+    100014: Victim_L_Femur
+    100016: Victim_L_FootVis1
+    100018: Victim_L_FootVis2
+    100020: Victim_L_Hand
+    100022: Victim_L_Index1
+    100024: Victim_L_Index2
+    100026: Victim_L_Index3
+    100028: Victim_L_Index4
+    100030: Victim_L_Knee
+    100032: Victim_L_Middle1
+    100034: Victim_L_Middle2
+    100036: Victim_L_Middle3
+    100038: Victim_L_Middle4
+    100040: Victim_L_Pinky1
+    100042: Victim_L_Pinky2
+    100044: Victim_L_Pinky3
+    100046: Victim_L_Pinky4
+    100048: Victim_L_Ring1
+    100050: Victim_L_Ring2
+    100052: Victim_L_Ring3
+    100054: Victim_L_Ring4
+    100056: Victim_L_Shoulder
+    100058: Victim_L_Thumb1
+    100060: Victim_L_Thumb2
+    100062: Victim_L_Thumb3
+    100064: Victim_L_Thumb4
+    100066: Victim_L_Toe
+    100068: Victim_L_ToeEnd
+    100070: Victim_L_Wrist
+    100072: Victim_Neck
+    100074: Victim_R_Ankle
+    100076: Victim_R_Clav
+    100078: Victim_R_Elbow
+    100080: Victim_R_Femur
+    100082: Victim_R_FootVis1
+    100084: Victim_R_FootVis2
+    100086: Victim_R_Hand
+    100088: Victim_R_Index1
+    100090: Victim_R_Index2
+    100092: Victim_R_Index3
+    100094: Victim_R_Index4
+    100096: Victim_R_Knee
+    100098: Victim_R_Middle1
+    100100: Victim_R_Middle2
+    100102: Victim_R_Middle3
+    100104: Victim_R_Middle4
+    100106: Victim_R_Pinky1
+    100108: Victim_R_Pinky2
+    100110: Victim_R_Pinky3
+    100112: Victim_R_Pinky4
+    100114: Victim_R_Ring1
+    100116: Victim_R_Ring2
+    100118: Victim_R_Ring3
+    100120: Victim_R_Ring4
+    100122: Victim_R_Shoulder
+    100124: Victim_R_Thumb1
+    100126: Victim_R_Thumb2
+    100128: Victim_R_Thumb3
+    100130: Victim_R_Thumb4
+    100132: Victim_R_Toe
+    100134: Victim_R_ToeEnd
+    100136: Victim_R_Wrist
+    100138: Victim_Root
+    100140: Victim_Spine1
+    100142: Victim_Spine2
+    100144: Victim_Spine3
+    400000: //RootNode
+    400002: Victim_Chest
+    400004: Victim_Head
+    400006: Victim_Head_End
+    400008: Victim_L_Ankle
+    400010: Victim_L_Clav
+    400012: Victim_L_Elbow
+    400014: Victim_L_Femur
+    400016: Victim_L_FootVis1
+    400018: Victim_L_FootVis2
+    400020: Victim_L_Hand
+    400022: Victim_L_Index1
+    400024: Victim_L_Index2
+    400026: Victim_L_Index3
+    400028: Victim_L_Index4
+    400030: Victim_L_Knee
+    400032: Victim_L_Middle1
+    400034: Victim_L_Middle2
+    400036: Victim_L_Middle3
+    400038: Victim_L_Middle4
+    400040: Victim_L_Pinky1
+    400042: Victim_L_Pinky2
+    400044: Victim_L_Pinky3
+    400046: Victim_L_Pinky4
+    400048: Victim_L_Ring1
+    400050: Victim_L_Ring2
+    400052: Victim_L_Ring3
+    400054: Victim_L_Ring4
+    400056: Victim_L_Shoulder
+    400058: Victim_L_Thumb1
+    400060: Victim_L_Thumb2
+    400062: Victim_L_Thumb3
+    400064: Victim_L_Thumb4
+    400066: Victim_L_Toe
+    400068: Victim_L_ToeEnd
+    400070: Victim_L_Wrist
+    400072: Victim_Neck
+    400074: Victim_R_Ankle
+    400076: Victim_R_Clav
+    400078: Victim_R_Elbow
+    400080: Victim_R_Femur
+    400082: Victim_R_FootVis1
+    400084: Victim_R_FootVis2
+    400086: Victim_R_Hand
+    400088: Victim_R_Index1
+    400090: Victim_R_Index2
+    400092: Victim_R_Index3
+    400094: Victim_R_Index4
+    400096: Victim_R_Knee
+    400098: Victim_R_Middle1
+    400100: Victim_R_Middle2
+    400102: Victim_R_Middle3
+    400104: Victim_R_Middle4
+    400106: Victim_R_Pinky1
+    400108: Victim_R_Pinky2
+    400110: Victim_R_Pinky3
+    400112: Victim_R_Pinky4
+    400114: Victim_R_Ring1
+    400116: Victim_R_Ring2
+    400118: Victim_R_Ring3
+    400120: Victim_R_Ring4
+    400122: Victim_R_Shoulder
+    400124: Victim_R_Thumb1
+    400126: Victim_R_Thumb2
+    400128: Victim_R_Thumb3
+    400130: Victim_R_Thumb4
+    400132: Victim_R_Toe
+    400134: Victim_R_ToeEnd
+    400136: Victim_R_Wrist
+    400138: Victim_Root
+    400140: Victim_Spine1
+    400142: Victim_Spine2
+    400144: Victim_Spine3
+    7400000: Heel_Kick_To_Head_Victim
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Heel_Kick_To_Head_Victim
+      takeName: Take 001
+      firstFrame: 48
+      lastFrame: 182
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Victim_Root
+        weight: 1
+      - path: Victim_Root/Victim_L_Femur
+        weight: 1
+      - path: Victim_Root/Victim_L_Femur/Victim_L_Knee
+        weight: 1
+      - path: Victim_Root/Victim_L_Femur/Victim_L_Knee/Victim_L_Ankle
+        weight: 1
+      - path: Victim_Root/Victim_L_Femur/Victim_L_Knee/Victim_L_Ankle/Victim_L_FootVis1
+        weight: 0
+      - path: Victim_Root/Victim_L_Femur/Victim_L_Knee/Victim_L_Ankle/Victim_L_FootVis1/Victim_L_FootVis2
+        weight: 0
+      - path: Victim_Root/Victim_L_Femur/Victim_L_Knee/Victim_L_Ankle/Victim_L_Toe
+        weight: 1
+      - path: Victim_Root/Victim_L_Femur/Victim_L_Knee/Victim_L_Ankle/Victim_L_Toe/Victim_L_ToeEnd
+        weight: 0
+      - path: Victim_Root/Victim_R_Femur
+        weight: 1
+      - path: Victim_Root/Victim_R_Femur/Victim_R_Knee
+        weight: 1
+      - path: Victim_Root/Victim_R_Femur/Victim_R_Knee/Victim_R_Ankle
+        weight: 1
+      - path: Victim_Root/Victim_R_Femur/Victim_R_Knee/Victim_R_Ankle/Victim_R_FootVis1
+        weight: 0
+      - path: Victim_Root/Victim_R_Femur/Victim_R_Knee/Victim_R_Ankle/Victim_R_FootVis1/Victim_R_FootVis2
+        weight: 0
+      - path: Victim_Root/Victim_R_Femur/Victim_R_Knee/Victim_R_Ankle/Victim_R_Toe
+        weight: 1
+      - path: Victim_Root/Victim_R_Femur/Victim_R_Knee/Victim_R_Ankle/Victim_R_Toe/Victim_R_ToeEnd
+        weight: 0
+      - path: Victim_Root/Victim_Spine1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Index1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Index1/Victim_L_Index2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Index1/Victim_L_Index2/Victim_L_Index3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Index1/Victim_L_Index2/Victim_L_Index3/Victim_L_Index4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Middle1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Middle1/Victim_L_Middle2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Middle1/Victim_L_Middle2/Victim_L_Middle3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Middle1/Victim_L_Middle2/Victim_L_Middle3/Victim_L_Middle4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Pinky1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Pinky1/Victim_L_Pinky2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Pinky1/Victim_L_Pinky2/Victim_L_Pinky3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Pinky1/Victim_L_Pinky2/Victim_L_Pinky3/Victim_L_Pinky4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Ring1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Ring1/Victim_L_Ring2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Ring1/Victim_L_Ring2/Victim_L_Ring3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Ring1/Victim_L_Ring2/Victim_L_Ring3/Victim_L_Ring4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Thumb1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Thumb1/Victim_L_Thumb2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Thumb1/Victim_L_Thumb2/Victim_L_Thumb3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_L_Clav/Victim_L_Shoulder/Victim_L_Elbow/Victim_L_Wrist/Victim_L_Hand/Victim_L_Thumb1/Victim_L_Thumb2/Victim_L_Thumb3/Victim_L_Thumb4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_Neck
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_Neck/Victim_Head
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_Neck/Victim_Head/Victim_Head_End
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Index1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Index1/Victim_R_Index2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Index1/Victim_R_Index2/Victim_R_Index3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Index1/Victim_R_Index2/Victim_R_Index3/Victim_R_Index4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Middle1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Middle1/Victim_R_Middle2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Middle1/Victim_R_Middle2/Victim_R_Middle3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Middle1/Victim_R_Middle2/Victim_R_Middle3/Victim_R_Middle4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Pinky1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Pinky1/Victim_R_Pinky2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Pinky1/Victim_R_Pinky2/Victim_R_Pinky3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Pinky1/Victim_R_Pinky2/Victim_R_Pinky3/Victim_R_Pinky4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Ring1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Ring1/Victim_R_Ring2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Ring1/Victim_R_Ring2/Victim_R_Ring3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Ring1/Victim_R_Ring2/Victim_R_Ring3/Victim_R_Ring4
+        weight: 0
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Thumb1
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Thumb1/Victim_R_Thumb2
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Thumb1/Victim_R_Thumb2/Victim_R_Thumb3
+        weight: 1
+      - path: Victim_Root/Victim_Spine1/Victim_Spine2/Victim_Spine3/Victim_Chest/Victim_R_Clav/Victim_R_Shoulder/Victim_R_Elbow/Victim_R_Wrist/Victim_R_Hand/Victim_R_Thumb1/Victim_R_Thumb2/Victim_R_Thumb3/Victim_R_Thumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Victim_Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Femur
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Femur
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Knee
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Knee
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Ankle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Ankle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_Spine3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Clav
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Clav
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Shoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Shoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Elbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Elbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Thumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Thumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Thumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Index1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Index2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Index3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Middle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Middle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Middle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Ring1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Ring2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Ring3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Pinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Pinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_L_Pinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Thumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Thumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Thumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Index1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Index2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Index3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Middle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Middle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Middle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Ring1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Ring2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Ring3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Pinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Pinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Victim_R_Pinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: heel kick to head victim(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_Root
+      position: {x: 1.82986259e-05, y: .916678429, z: .00149613619}
+      rotation: {x: -.686007619, y: .0305957757, z: .0318807177, w: .726251423}
+      scale: {x: .999999821, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: Victim_L_Femur
+      position: {x: -.0899888426, y: -9.8262916e-08, z: -.0262889881}
+      rotation: {x: -.00218651025, y: -.701507986, z: .00215774635, w: .712655008}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Victim_L_Knee
+      position: {x: -.43882364, y: -1.05974163e-06, z: -6.42973021e-07}
+      rotation: {x: -.000342324463, y: -.00240505603, z: .0412726291, w: .999144971}
+      scale: {x: .999999762, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: Victim_L_Ankle
+      position: {x: -.383551717, y: 1.65944414e-07, z: -2.09920086e-06}
+      rotation: {x: .00280160946, y: .00406511873, z: .570648015, w: .821179926}
+      scale: {x: .999999881, y: .999999881, z: .999999404}
+      transformModified: 1
+    - name: Victim_L_FootVis1
+      position: {x: .0399333984, y: .0878054723, z: 2.78643074e-05}
+      rotation: {x: 0, y: 0, z: .173648193, w: .984807789}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_FootVis2
+      position: {x: -.217441931, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Toe
+      position: {x: -.159504786, y: -7.72197684e-09, z: -1.17916699e-08}
+      rotation: {x: 0, y: 0, z: .173648193, w: .984807789}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Victim_L_ToeEnd
+      position: {x: -.0728002861, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Femur
+      position: {x: .0899889916, y: -1.09647111e-07, z: -.0262889992}
+      rotation: {x: -.00962422881, y: -.709179759, z: .00961490814, w: .70489645}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Victim_R_Knee
+      position: {x: -.438823462, y: 4.26550969e-07, z: -7.48733964e-06}
+      rotation: {x: .00093691959, y: 7.82773568e-05, z: .0685098395, w: .997650027}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Victim_R_Ankle
+      position: {x: -.383551806, y: 1.48183474e-07, z: -1.5471727e-06}
+      rotation: {x: .00231312774, y: .00331285619, z: .562343895, w: .826893628}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Victim_R_FootVis1
+      position: {x: .0408141799, y: .0854208246, z: -6.18426202e-05}
+      rotation: {x: 0, y: 0, z: .173648193, w: .984807789}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_FootVis2
+      position: {x: -.217454016, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Toe
+      position: {x: -.159504786, y: -1.55015041e-08, z: -1.14418022e-08}
+      rotation: {x: 0, y: 0, z: .173648193, w: .984807789}
+      scale: {x: 1, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Victim_R_ToeEnd
+      position: {x: -.0728002861, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_Spine1
+      position: {x: -5.14405691e-08, y: .0606664121, z: .0606668405}
+      rotation: {x: .000231410522, y: -.00233552139, z: .000945919659, w: .999996841}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_Spine2
+      position: {x: 4.86396239e-08, y: -2.37752253e-08, z: .0808891356}
+      rotation: {x: .00124151993, y: .00231054332, z: .000252316473, w: .999996543}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Victim_Spine3
+      position: {x: -3.38542812e-08, y: 2.05842294e-08, z: .0808891058}
+      rotation: {x: -.000514978776, y: .0041208691, z: -.00807475578, w: .999958813}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Victim_Chest
+      position: {x: 1.82539832e-08, y: -9.03863739e-09, z: .0808891952}
+      rotation: {x: -.0682809502, y: .0130133973, z: -.112755567, w: .991188467}
+      scale: {x: .999999821, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Victim_L_Clav
+      position: {x: -.0303334817, y: -.0455001146, z: .163800254}
+      rotation: {x: -.0475407466, y: .139353976, z: .087960504, w: .985181928}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Victim_L_Shoulder
+      position: {x: -.144927263, y: 3.19672147e-08, z: 2.52753498e-08}
+      rotation: {x: -.146919787, y: -.192661524, z: -.0426892266, w: .969264507}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Elbow
+      position: {x: -.311253339, y: 1.6421187e-05, z: 7.4588462e-07}
+      rotation: {x: -2.07925204e-05, y: .0177506879, z: .0387066267, w: .999092937}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Wrist
+      position: {x: -.249975353, y: 6.67938238e-08, z: -2.60460951e-07}
+      rotation: {x: -.176664695, y: .0513944738, z: -.0147349853, w: .982817948}
+      scale: {x: .999999881, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Victim_L_Hand
+      position: {x: -.0729501024, y: 0, z: 0}
+      rotation: {x: .707106829, y: -0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Index1
+      position: {x: -.0184385423, y: -.004576582, z: .0202971902}
+      rotation: {x: -.0658473745, y: -.0658502802, z: .704019547, w: .704048574}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Index2
+      position: {x: -0, y: .0484526753, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Index3
+      position: {x: -0, y: .0224184729, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Index4
+      position: {x: -0, y: .0276586711, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Middle1
+      position: {x: -.0173784774, y: 4.73835207e-05, z: -.00189260079}
+      rotation: {x: -.0426416211, y: -.0426416211, z: .705819905, w: .705819905}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Middle2
+      position: {x: -0, y: .0492816977, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Middle3
+      position: {x: -0, y: .0307814181, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Middle4
+      position: {x: -0, y: .0285513923, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Pinky1
+      position: {x: -.00593170524, y: -.00863490906, z: -.0415652879}
+      rotation: {x: -.0192254409, y: -.0192254409, z: .706845403, w: .706845403}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Pinky2
+      position: {x: -0, y: .0333912633, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Pinky3
+      position: {x: -0, y: .0217317194, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Pinky4
+      position: {x: -0, y: .0248834509, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Ring1
+      position: {x: -.0104222214, y: -.00291082938, z: -.0213250089}
+      rotation: {x: -.0384851918, y: -.0384851918, z: .706058741, w: .706058741}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Ring2
+      position: {x: -0, y: .0490671918, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Ring3
+      position: {x: -0, y: .028618874, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Ring4
+      position: {x: -0, y: .0239765123, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Thumb1
+      position: {x: .0582706779, y: -.01991814, z: .0262024943}
+      rotation: {x: .733240128, y: -.262759507, z: .39321816, w: .488565117}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Thumb2
+      position: {x: 1.68271555e-07, y: .0456805117, z: -3.77395196e-07}
+      rotation: {x: .00331666158, y: -.0184387919, z: .0253258459, w: .999503672}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Thumb3
+      position: {x: 1.5368154e-07, y: .0447714478, z: -2.51920994e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_L_Thumb4
+      position: {x: -0, y: .0304077808, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_Neck
+      position: {x: 8.37392289e-09, y: -.0404445343, z: .202222645}
+      rotation: {x: .118102998, y: -.0290953033, z: -.0232121218, w: .99230355}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Victim_Head
+      position: {x: -4.33862901e-08, y: -4.92359113e-08, z: .111222424}
+      rotation: {x: -.0527289063, y: .00465845875, z: -.00748226279, w: .998569965}
+      scale: {x: .999999821, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Victim_Head_End
+      position: {x: -0, y: 0, z: .187056288}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Clav
+      position: {x: .0303334501, y: -.0455001146, z: .163800314}
+      rotation: {x: .000843801652, y: .99451381, z: -.000943933672, w: .104598083}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Victim_R_Shoulder
+      position: {x: -.144927353, y: 2.29257981e-08, z: -7.74259803e-08}
+      rotation: {x: .147992268, y: .106970936, z: -.0893530399, w: .979117751}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Victim_R_Elbow
+      position: {x: -.311253399, y: 4.28440899e-06, z: -5.59591626e-06}
+      rotation: {x: .00290164212, y: -.0248856507, z: .0445398986, w: .998693347}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Wrist
+      position: {x: -.249975443, y: 1.45773853e-07, z: 1.37654737e-07}
+      rotation: {x: .104557328, y: -.0300063714, z: -.0886263624, w: .990107477}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Victim_R_Hand
+      position: {x: -.0729501024, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Index1
+      position: {x: -.0184385423, y: -.004576582, z: -.0202971902}
+      rotation: {x: -.0658509433, y: .065847829, z: -.704048336, w: .704019606}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Index2
+      position: {x: -0, y: -.0484526753, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Index3
+      position: {x: -0, y: -.0224184729, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Index4
+      position: {x: -0, y: -.0276586711, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Middle1
+      position: {x: -.0173784774, y: 4.73835207e-05, z: .00189260079}
+      rotation: {x: -.0426416211, y: .0426416211, z: -.705819905, w: .705819905}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Middle2
+      position: {x: -0, y: -.0492816977, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Middle3
+      position: {x: -0, y: -.0307814181, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Middle4
+      position: {x: -0, y: -.0285513923, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Pinky1
+      position: {x: -.00593170524, y: -.00863490906, z: .0415652879}
+      rotation: {x: -.0192254409, y: .0192254409, z: -.706845403, w: .706845403}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Pinky2
+      position: {x: -0, y: -.0333912633, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Pinky3
+      position: {x: -0, y: -.0217317194, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Pinky4
+      position: {x: -0, y: -.0248834509, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Ring1
+      position: {x: -.0104222214, y: -.00291082938, z: .0213250089}
+      rotation: {x: -.0384851918, y: .0384851918, z: -.706058741, w: .706058741}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Ring2
+      position: {x: -0, y: -.0490671918, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Ring3
+      position: {x: -0, y: -.028618874, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Ring4
+      position: {x: -0, y: -.0239765123, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Thumb1
+      position: {x: .0582704023, y: -.0199180022, z: -.0262024943}
+      rotation: {x: .269571304, y: .711196601, z: .541786909, w: -.357767642}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Thumb2
+      position: {x: -1.68271555e-07, y: -.0456805117, z: 3.77395196e-07}
+      rotation: {x: .00331581221, y: -.0184376445, z: .0253282078, w: .999503732}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Thumb3
+      position: {x: -1.5368154e-07, y: -.0447714478, z: 2.51920994e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Victim_R_Thumb4
+      position: {x: -0, y: -.0304077808, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

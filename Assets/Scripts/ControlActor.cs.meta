@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4302832ec3dd04c48811d644d88c0481
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tobe: {fileID: 11400000, guid: 5df793f7f1994e74098702fe9577d86c, type: 2}
+  - blade: {fileID: 11400000, guid: c5b2ff45f218caa48a438b73b4c9061c, type: 2}
+  - rain: {instanceID: 0}
+  - decoration: {instanceID: 0}
+  - spotlight: {instanceID: 0}
+  - setLighting: {instanceID: 0}
+  - deck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

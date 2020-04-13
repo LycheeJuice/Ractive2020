@@ -1,0 +1,43 @@
+﻿///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// \brief   Utils and global config.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Copyright (c) Ibuprogames. All rights reserved.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////
+// BEGIN CONFIGURATION REGION
+/////////////////////////////////////////////////////////////
+
+// Define to unroll the loop in shaders.
+//#define UNROLL
+
+// Do not activate. Only for promotional videos.
+//#define ENABLE_DEMO
+
+/////////////////////////////////////////////////////////////
+// END CONFIGURATION REGION
+/////////////////////////////////////////////////////////////
+
+inline float3 sRGB(float3 pixel)
+{
+  return (pixel <= float3(0.0031308f, 0.0031308f, 0.0031308f)) ? pixel * 12.9232102f : 1.055f * pow(pixel, 0.41666f) - 0.055f;
+}
+
+float3 Linear(float3 pixel)
+{
+  return (pixel <= float3(0.0404482f, 0.0404482f, 0.0404482f)) ? pixel / 12.9232102f : pow((pixel + 0.055f) * 0.9478672f, 2.4f);
+}
+
+#ifdef ENABLE_DEMO
+inline float3 PixelDemo(float3 pixel, float3 final, float2 uv)
+{
+  float separator = 0.65f;//(sin(_Time.x * 12.5f) * 0.25f) + 0.5f;
+
+  if (abs(uv.x - separator) < 0.002f)
+    final = float4(1.0f, 1.0f, 1.0f, 1.0f);
+  else if (uv.x > separator)
+    final = pixel;
+
+  return final;
+}
+#endif
