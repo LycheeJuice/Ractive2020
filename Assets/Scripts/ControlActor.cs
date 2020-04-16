@@ -22,6 +22,8 @@ public class ControlActor : MonoBehaviour {
     KeywordRecognizer keywordRecognizer;
     Dictionary<string, System.Action> keywords = new Dictionary<string, System.Action>();
     Animator anim;
+    public Vector3 initPos;
+    public Vector3 currentPos;
     // Use this for initialization
     private void KeywordRecognizer_OnPhraseRecognized(PhraseRecognizedEventArgs args)
     {
@@ -38,9 +40,12 @@ public class ControlActor : MonoBehaviour {
         anim = GetComponent<Animator>();
         lipSync = GetComponent<LipSync>();
         rain.enabled = false;
+
+        initPos = this.transform.position;
+
         //Create keywords for keyword recognizer
 
-        keywords.Add("To be", () =>
+        keywords.Add("to be", () =>
         {
             Debug.Log("To be monologue!");
             data = tobe;
@@ -197,6 +202,8 @@ public class ControlActor : MonoBehaviour {
         {
             Debug.Log("Cut!");
             anim.SetTrigger("end");
+            anim.ResetTrigger("interpret");
+            this.transform.position = new Vector3(transform.position.x, initPos.y, transform.position.z);
             lipSync.Stop(true);
         });
 
@@ -207,6 +214,6 @@ public class ControlActor : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
+        currentPos = this.transform.position;
     }
 }
